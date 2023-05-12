@@ -1,3 +1,3 @@
-# STAT 201 Project
+# Study of the difference between the average tuition cost in Repulican leaning states and Democrat leaning states in 2020
 
-Cost of Education in Republican vs Democrat leaning US States
+Analyzing language: R
